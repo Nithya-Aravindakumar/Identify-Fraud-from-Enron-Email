@@ -1,0 +1,12 @@
+(lp0
+S'exercised_stock_options'
+p1
+aS'total_stock_value'
+p2
+aS'bonus'
+p3
+aS'salary'
+p4
+aS'deferred_income'
+p5
+a.
